@@ -1,6 +1,6 @@
 # 🌊 Cenotes de Yucatán: Un Viaje Subterráneo 🌊
 
-![Banner con imágenes de cenotes](URL_DE_IMAGEN_DEL_BANNER)
+![Banner con imágenes de cenotes](/src/img/terceImg.jpg)
 
 Bienvenido al mundo mágico de los **Cenotes de Yucatán**, un proyecto dedicado a explorar y compartir la espléndida belleza y los misterios de estos fenómenos naturales en México.
 
@@ -15,7 +15,7 @@ Este proyecto es un homenaje a los cenotes, tesoros naturales de la península d
 
 Descubre la belleza de los cenotes a través de nuestra galería de fotos y videos. Cada imagen te llevará a un viaje visual inolvidable.
 
-![Galería de imágenes de cenotes](URL_DE_GALERIA)
+![Galería de imágenes de cenotes](/src/img/secondPartImg.jpg)
 
 ## 🧭 Explora
 
