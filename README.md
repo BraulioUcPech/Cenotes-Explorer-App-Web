@@ -32,7 +32,7 @@ Aprende sobre esfuerzos de conservación y cómo puedes contribuir a proteger es
 
 ## 📬 Contacto
 
-¿Preguntas o sugerencias? Escríbenos a [NUESTRO_EMAIL].
+¿Preguntas o sugerencias? Escríbenos a [braulioalexsanderucpech@gmail.com].
 
 ## 📜 Licencia
 
